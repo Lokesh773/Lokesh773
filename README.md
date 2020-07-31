@@ -20,8 +20,14 @@ Here are some ideas to get you started:
      This is a 3rd Year undergraduate from <b>Amrita University </b>, Coimbatore</a>. <br>
      My code doesn’t always work, but when it does I don’t know why🤣.<br>
      🌱 I’m currently learning -  Python 🐍, Learning HTML & CSS<br>
-     💬 Hobbies : Cricket🏏 Music 🎧 Netflix👓
+     💬 Hobbies : Cricket🏏 Music 🎧 Netflix👓<br>
       📱X00T/D Dev at https://github.com/ZenX-OS <br>
+  <br>
+
+
+![Lokesh's github stats](https://github-readme-stats.vercel.app/api?username=Lokesh773&show_icons=true&hide_border=true)
+
+<br>
      
   <br>
   <a href="https://twitter.com/iamlokesh773">

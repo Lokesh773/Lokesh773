@@ -24,7 +24,7 @@ Here are some ideas to get you started:
       📱X00T/D Dev at https://github.com/ZenX-OS <br>
      
   <br>
-  <a href="https://twitter.com/iamlokesh773
+  <a href="https://twitter.com/iamlokesh773">
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/lokesh._.chow/">

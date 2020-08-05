@@ -25,7 +25,8 @@ Here are some ideas to get you started:
   <br>
 
 
-![Lokesh's github stats](https://github-readme-stats.vercel.app/api?username=Lokesh773&show_icons=true&hide_border=true)
+
+[![Lokesh's github stats](https://github-readme-stats.vercel.app/api?username=Lokesh773&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/Lokesh773)
 
 <br>
      

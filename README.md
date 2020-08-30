@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <em>
      This is a 3rd Year undergraduate from <b>Amrita University </b>, Coimbatore</a>. <br>
      My code doesn’t always work, but when it does I don’t know why🤣.<br>
-     🌱 I’m currently learning -  Python 🐍, Learning HTML & CSS<br>
+     🌱 I’m currently learning -  Python 🐍, HTML & CSS<br>
      💬 Hobbies : Cricket🏏 Music 🎧 Netflix👓<br>
       📱X00T/D Dev at https://github.com/ZenX-OS <br>
   <br>

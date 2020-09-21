@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 
 [![Lokesh's github stats](https://github-readme-stats.vercel.app/api?username=Lokesh773&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/Lokesh773)
+<br>
+<img align="center" src="https://komarev.com/ghpvc/?username=Lokesh773&style=flat-square" />
 
 <br>
      

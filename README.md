@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><br>
-<b>It's Lokesh!!!</b>
+<h2 align="center">Hello 👋, I'm Lokesh</h2>
 
 <p>
   <em>
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://komarev.com/ghpvc/?username=Lokesh773&style=flat-square" />
 
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raaj52&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
      
   <br>
   <a href="https://twitter.com/iamlokesh773">

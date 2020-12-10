@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-     This is a 3rd Year undergraduate from <b>Amrita University </b>, Coimbatore</a>. <br>
+     A 3rd Year undergraduate from <b>Amrita University </b>, Coimbatore</a>. <br>
       Android enthusiast <br>
      🌱 I’m currently learning -  Python 🐍, HTML & CSS<br>
      💬 Hobbies : Cricket🏏 Music 🎧 Netflix👓<br>

@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-     A 3rd Year undergraduate from <b>Amrita University </b>, Coimbatore</a>. <br>
+     An undergraduate from <b>Amrita University </b>, Coimbatore</a>. <br>
       Android enthusiast <br>
      🌱 I’m currently learning -  Python 🐍, HTML & CSS<br>
      💬 Hobbies : Cricket🏏 Music 🎧 Netflix👓<br>
-      📱Dev at https://github.com/ZenX-OS <br>
+      📱Dev at [PALLADIUM-OS](https://github.com/Palladium-OS) <br>
   <br>
 
 

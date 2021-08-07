@@ -21,7 +21,7 @@ Here are some ideas to get you started:
       Android enthusiast <br>
      🌱 I’m currently learning -  Python 🐍, HTML & CSS<br>
      💬 Hobbies : Cricket🏏 Music 🎧 Netflix👓<br>
-      📱Dev at [PALLADIUM-OS](https://github.com/Palladium-OS) <br>
+      📱Dev at https://github.com/Palladium-OS <br>
   <br>
 
 

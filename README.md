@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-     An undergraduate from <b>Amrita University </b>, Coimbatore</a>. <br>
+     A Graduate from <b>Webster University </b>, <br>
       Android enthusiast <br>
      🌱 I’m currently learning -  Python 🐍, HTML & CSS<br>
      💬 Hobbies : Cricket🏏 Music 🎧 Netflix👓<br>
